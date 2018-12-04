@@ -1,0 +1,19 @@
+{
+    "name": "gaozhongqiang/curl",
+    "description": "请求url获取第三方数据",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "gaozhongqiang",
+            "email": "1225000209@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gaozhongqiang\\Curl\\" : ""
+        }
+    }
+}
